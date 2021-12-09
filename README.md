@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jean Pierre Soto Chirinos @LordCocoro.
+- 👀 I’m interested in artificial vision.
+- 🌱 I’m currently learning a master's degree in computer science.
+- 💞️ I’m looking to collaborate on neural digitalization.
+- 📫 How to reach me jsotochir@unsa.edu.pe
